@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello! I'm Toby Morris 👋
+Thanks for visiting!  
+I'm a math nerd who enjoys programming and videogames.  
 
-<!--
-**TdubMorris/TdubMorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+      <ins>Favorites</ins>  
+Videogame | Celeste
+Color     | Dark Blue
+IDE       | VScode
+Languages | Java/Python
+</pre>
+  &nbsp;
 
-Here are some ideas to get you started:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
