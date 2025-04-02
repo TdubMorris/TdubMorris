@@ -1,6 +1,6 @@
 ## Hello! I'm Toby Morris 👋
 Thanks for visiting!  
-I'm a math nerd who enjoys programming and videogames.  
+I'm a math nerd who enjoys programming and videogames, and programming videogames
 
 <pre>
       <ins>Favorites</ins>  
